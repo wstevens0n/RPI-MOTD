@@ -1,5 +1,7 @@
 # RPI-MOTD
 
+![screenshot from 2017-03-02 23-58-27](https://cloud.githubusercontent.com/assets/25314348/23539987/2c3cb88e-ffa4-11e6-9460-e91e11baa704.png)
+
 Save as /etc/motd.tcl and add "/etc/motd.tcl" to the end of your /etc/profile
 You'll also need to:
   - sudo apt-get install tcl 
